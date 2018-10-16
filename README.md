@@ -1,8 +1,8 @@
 # zabbix_02
-installing zabbix server on VM1
+1. installing zabbix server on VM1
 
-installing zabbix agent on VM1
+2. installing zabbix agent on VM1
 
-installing zabbix agent on VM2
+3. installing zabbix agent on VM2
 
-registration host (VM2) on zabbix server (VM1)
+4. registration host (VM2) on zabbix server (VM1)
