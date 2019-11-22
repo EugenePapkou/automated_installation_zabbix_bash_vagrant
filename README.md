@@ -1,4 +1,4 @@
-# zabbix_02
+# zabbix
 1. installing zabbix server on VM1
 
 2. installing zabbix agent on VM1
